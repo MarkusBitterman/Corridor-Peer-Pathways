@@ -22,12 +22,29 @@ We are building **pathways** so people can find their own.
 
 ## 📚 What's Inside
 
-### 🆘 [Resource Directory](resources/)
-**Complete contact information for local peer support resources**
+This repository contains **four main pieces** that work together:
+
+### 1️⃣ **Peer Support Philosophy**
+Understanding what peer support is, how it works, and why it matters. This is the foundation—grounded in lived experience, mutual respect, and clear boundaries.
+
+### 2️⃣ **[Corridor Peer Pathways Services](SERVICES.md)** 
+Services offered by **Matthew Hall** (bittermang@duck.com) as an independent peer support specialist:
+- Individual peer support and counseling
+- Workshops for healthy living
+- In-home cleaning + peer support
+- Life coaching, fitness, yoga, and mindfulness
+- Transportation mastery (conquer the bus!)
+- TTRPG therapy: "Seven Mirrors 🪞" campaign
+- And more
+
+👉 **[See full services and contact info →](SERVICES.md)**
+
+### 3️⃣ **[Community & County Resources](resources/)**
+**Complete contact information for 70+ local organizations**
 
 The [resources/](resources/) directory contains comprehensive, verified contact information for:
 - **Emergency & Crisis Support** (988, Your Life Iowa, 24/7 crisis lines)
-- **Housing & Homelessness Resources** (Shelter House, emergency shelters)
+- **Housing & Homelessness Resources** (Shelter House Iowa, emergency shelters)
 - **Food Assistance** (Food banks, pantries, meal programs)
 - **Behavioral Health Services** (Mental health clinics, counseling)
 - **Domestic Violence & Sexual Assault Support** (DVIP, Waypoint, crisis hotlines)
@@ -46,6 +63,17 @@ The [resources/](resources/) directory contains comprehensive, verified contact 
 - Services offered
 
 👉 **[Browse the full resource directory →](resources/)**
+
+### 4️⃣ **Shelter House Iowa Resources**
+A vital community resource and my former employer. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
+
+- **Shelter House Main Office:** (319) 351-0326
+- **Address:** 429 Southgate Ave, Iowa City, IA 52240
+- **Website:** [shelterhouseiowa.org](https://shelterhouseiowa.org)
+
+See the [Housing Resources](resources/HOUSING-HOMELESSNESS.md) section for complete information.
+
+**Important:** Corridor Peer Pathways operates **independently** and is **not affiliated with Shelter House Iowa**. This distinction is explicit, respectful, and intentional.
 
 ---
 
@@ -166,6 +194,16 @@ Contribution guidelines coming soon. For now: if it helps people find support, i
 
 ## 📬 Contact
 
-For questions, corrections, or contributions, please use GitHub issues or pull requests.
+### For Corridor Peer Pathways Services
+**Matthew Hall, Peer Support Specialist**  
+Email: bittermang@duck.com  
+See [SERVICES.md](SERVICES.md) for scheduling and consultation.
+
+### For Repository Questions or Contributions
+Use GitHub issues or pull requests for:
+- Outdated resource information
+- Missing community resources
+- Documentation improvements
+- General questions about the repository
 
 Let's keep the map open.

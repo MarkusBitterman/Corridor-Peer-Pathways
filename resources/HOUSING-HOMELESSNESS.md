@@ -12,11 +12,11 @@
 
 #### Fairweather Lodge (Shelter House Program)
 **Permanent supportive housing for individuals with severe mental illness**
-- **Case Manager:** Amy Rasmussen
-- **Phone:** (319) 530-4729 or (319) 259-7360
-- **Email:** Amy.Rasmussen@shelterhouseiowa.org
-- **Address:** Applications to: 429 Southgate Ave, Iowa City, IA 52240
+- **Phone:** (319) 351-0326
+- **Address:** 429 Southgate Ave, Iowa City, IA 52240
+- **Website:** [shelterhouseiowa.org](https://shelterhouseiowa.org)
 - **Services:** Permanent supportive housing, case management for at-risk individuals with mental illness
+- **Note:** Contact main Shelter House office for Fairweather Lodge inquiries
 
 ### Domestic Violence Intervention Program (DVIP)
 **Emergency shelter for domestic violence survivors**

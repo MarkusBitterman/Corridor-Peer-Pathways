@@ -161,9 +161,9 @@
 
 ### Shelter House Programs
 - **Main Office:** (319) 351-0326
-- **Fairweather Lodge (Mental Health Recovery):** Amy Rasmussen - (319) 530-4729
-- **Email:** Amy.Rasmussen@shelterhouseiowa.org
+- **Fairweather Lodge (Mental Health Recovery):** Contact main office
 - **Address:** 429 Southgate Ave, Iowa City, IA 52240
+- **Website:** shelterhouseiowa.org
 
 ### Youth Services
 - **Foundation 2 Youth Shelter:** (319) 366-8797 (ages 11-17)

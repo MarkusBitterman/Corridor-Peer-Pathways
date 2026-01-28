@@ -9,7 +9,9 @@
 
 **Corridor Peer Pathways** is an independent peer support practice serving the I-380 Corridor in Eastern Iowa (Iowa City, Coralville, North Liberty, Cedar Rapids, Marion, and surrounding communities).
 
-This practice is offered **independently** as an **independent contractor** and is **not affiliated with Shelter House Iowa** or any other organization, though I am a proud graduate and advocate of the Fairweather Lodge program.
+I am currently employed at **Shelter House Iowa** as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building. I am also a proud graduate and advocate of the Fairweather Lodge program.
+
+**Corridor Peer Pathways** is offered separately as an **independent contractor** practice, distinct from my employment at Shelter House Iowa.
 
 ---
 
@@ -116,9 +118,10 @@ For scheduling inquiries, service questions, or to discuss how peer support migh
    - Boundaries, ethics, and scope of role
 
 2. **Shelter House Iowa Resources**
-   - My former employer and the Fairweather Lodge program
+   - My current employer: Senior Fresh Starts Janitor and Peer Support at 501 Southgate
+   - Graduate and advocate of the Fairweather Lodge program
    - A vital community resource (see [Housing Resources](resources/HOUSING-HOMELESSNESS.md))
-   - **Note:** Corridor Peer Pathways operates independently
+   - **Note:** Corridor Peer Pathways operates as an independent contractor practice, separate from this employment
 
 3. **Community & County Resources**
    - Comprehensive directory of Johnson & Linn County services

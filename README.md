@@ -65,7 +65,7 @@ The [resources/](resources/) directory contains comprehensive, verified contact 
 👉 **[Browse the full resource directory →](resources/)**
 
 ### 4️⃣ **Shelter House Iowa Resources**
-A vital community resource and my former employer. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
+A vital community resource and my current employer. I work as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
 
 - **Shelter House Main Office:** (319) 351-0326
 - **Address:** 429 Southgate Ave, Iowa City, IA 52240
@@ -73,7 +73,7 @@ A vital community resource and my former employer. Shelter House provides emerge
 
 See the [Housing Resources](resources/HOUSING-HOMELESSNESS.md) section for complete information.
 
-**Important:** Corridor Peer Pathways operates **independently** and is **not affiliated with Shelter House Iowa**. This distinction is explicit, respectful, and intentional.
+**Important:** Corridor Peer Pathways operates **independently** as an **independent contractor** practice, separate from my employment at Shelter House Iowa. This distinction is explicit, respectful, and intentional.
 
 ---
 
@@ -168,9 +168,9 @@ You may:
 ## 🙏 Acknowledgments
 
 ### Independence & Transparency
-I am a graduate and advocate of **Shelter House Iowa** and their **Fairweather Lodge** program.
+I am a graduate and advocate of **Shelter House Iowa** and their **Fairweather Lodge** program. I currently work at Shelter House Iowa as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building.
 
-This project and peer support work are offered **independently**, as an **independent contractor**, and are **not affiliated with Shelter House Iowa**.
+**Corridor Peer Pathways** is offered **independently** as an **independent contractor** practice, separate from my employment at Shelter House Iowa.
 
 That distinction is explicit, respectful, and intentional.
 

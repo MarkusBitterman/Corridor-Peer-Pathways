@@ -1,3 +1,60 @@
+## 🆘 **Emergency Contacts**  
+| Service                      | Contact               | Availability |
+|------------------------------|-----------------------|--------------|
+| **Emergency (Life-threatening)** | **911**           | 24/7         |
+| **Suicide & Crisis Lifeline** | **988** (call/text)  | 24/7         |
+| **Your Life Iowa**           | **1-855-581-8111**   | 24/7         |
+| **Shelter House Iowa City**  | **(319) 351-0326**   | Call for hours |
+| **2-1-1 Resource Referral**  | **211** or (319) 739-4211 | 24/7 |
+
+---
+
+# Corridor Peer Pathways 
+## Introduction
+
+This repository, **Corridor Peer Pathways**, serves as a community-driven resource for mental health and crisis recovery support. It empowers the Eastern Iowa community with peer support philosophy, detailed local resource directories, and practical recovery skill-building. These resources aim to help people find their own unique paths, not dictate them.
+
+> **“This is Eastern Iowa. This is mental health & crisis recovery. This is peer support, lived honestly and shared freely.”**
+
+We are committed to building a living map of resources that is honest, accessible, and beneficial for all.
+
+---
+
+## Community Resources; Table of Contents
+
+### **Resource Directory**
+
+These links guide you to detailed directories for specific support needs:
+- [Emergency & Crisis Resources](resources/EMERGENCY-CRISIS.md)
+- [Housing & Homelessness](resources/HOUSING-HOMELESSNESS.md)
+- [Food Assistance](resources/FOOD-ASSISTANCE.md)
+- [Behavioral Health & Mental Health](resources/BEHAVIORAL-HEALTH.md)
+- [Domestic Violence & Sexual Assault Support](resources/DOMESTIC-VIOLENCE-SEXUAL-ASSAULT.md)
+- [Utility Assistance](resources/UTILITY-ASSISTANCE.md)
+- [Job Placement & Résumé Help](resources/JOB-PLACEMENT-RESUME.md)
+- [Continuing Education & Training Grants](resources/EDUCATION-TRAINING-GRANTS.md)
+- [Transportation](resources/TRANSPORTATION.md)
+- [Medical Care & Health Insurance](resources/MEDICAL-CARE-INSURANCE.md)
+- [Resources for Refugees & New Americans](resources/REFUGEE-NEW-AMERICANS.md)
+- [Know Your Rights: ICE & Immigration](resources/KNOW-YOUR-RIGHTS-ICE.md)
+
+---
+
+### **README; Table of Contents**
+
+- [Introduction](#introduction)
+- [Table of Contents](#table-of-contents)
+- [Quick Resource Access](#emergency-contacts)
+- [Peer Support Philosophy](#philosophy)
+- [Core Principles](#core-principles)
+- [Why Open Source?](#why-open-source)
+- [License](#license)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
+
+---
+
 # Corridor Peer Pathways
 ### An open, living map for Mental Health & Crisis Recovery Peer Support in Eastern Iowa
 

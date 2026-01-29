@@ -87,6 +87,23 @@ This directory contains comprehensive, human-readable contact information for lo
 - Insurance enrollment assistance
 - Prescription assistance programs
 
+### 🌍 [Refugees, New Americans, and Displaced Persons](REFUGEE-NEW-AMERICANS.md)
+- Consultation of Religious Communities (resettlement services)
+- Catherine McAuley Center (ESL, literacy, citizenship)
+- EMBARC Iowa (support for refugees from Myanmar)
+- Center for Worker Justice of Eastern Iowa
+- Language access and interpretation resources
+- Culturally responsive health and behavioral health services
+- Immigration legal resources
+
+### ⚖️ [Know Your Rights: ICE & Immigration Enforcement](KNOW-YOUR-RIGHTS-ICE.md)
+- Constitutional rights regardless of immigration status
+- What to do if ICE comes to your home, workplace, or stops you in public
+- How to protect your family and make a safety plan
+- Sensitive locations policy information
+- Key phrases to remember
+- Emergency legal resources and contacts
+
 ---
 
 ## 🔑 Key Emergency Numbers (Always Visible)

@@ -173,6 +173,28 @@
 
 ---
 
+## 🌍 REFUGEE & IMMIGRANT SUPPORT
+
+### Community Organizations
+- **Consultation of Religious Communities (Iowa City):** (319) 338-2826
+- **Catherine McAuley Center (Cedar Rapids):** (319) 364-8893
+- **Center for Worker Justice:** (319) 594-7593
+- **EMBARC Iowa:** (515) 520-6187
+
+### Immigration Legal Help
+- **Iowa Legal Aid:** 1-800-532-1275
+- **Catholic Charities Immigration:** (515) 237-5044
+
+### Know Your Rights
+- You have the right to remain silent
+- You do not have to open your door without a judicial warrant
+- You have the right to an attorney
+
+👉 **[Full Know Your Rights Guide →](KNOW-YOUR-RIGHTS-ICE.md)**  
+👉 **[Refugee & New American Resources →](REFUGEE-NEW-AMERICANS.md)**
+
+---
+
 ## 📝 TIPS FOR CALLING
 
 1. **Have ready:**

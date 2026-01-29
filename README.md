@@ -53,6 +53,8 @@ The [resources/](resources/) directory contains comprehensive, verified contact 
 - **Education & Training Grants** (Kirkwood, workforce training programs)
 - **Transportation** (Public transit, paratransit, 380 Express)
 - **Medical Care & Insurance** (Free clinics, health insurance help)
+- **Refugees, New Americans & Displaced Persons** (Resettlement, ESL, cultural support)
+- **Know Your Rights: ICE & Immigration** (Rights-focused information, legal resources)
 
 **All resources include:**
 - Physical addresses

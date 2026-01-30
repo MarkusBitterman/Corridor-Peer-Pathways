@@ -102,7 +102,7 @@ Services offered by **Matthew Hall** (bittermang@duck.com) as an independent pee
 Nuggets are short, practical peer support frameworks derived from everyday experiences in recovery and daily life. Each "Golden Nugget" takes a real moment—often humorous or frustrating—and extracts a reusable model for emotional regulation, problem-solving, and forward momentum.
 
 **Current Nuggets:**
-- [The Incredible Vanishing Screwdriver](nuggets/golden-nugget-the-incredible-vanishing-screwdriver.md) – A framework for emotional regulation and Plan B thinking when things don't go as expected
+- [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – A framework for emotional regulation and Plan B thinking when things don't go as expected
 
 **Coming Soon:**
 - Emotional Regulation & Driving a Bus

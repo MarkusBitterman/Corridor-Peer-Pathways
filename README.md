@@ -32,9 +32,9 @@ We are committed to building a living map of resources that is honest, accessibl
 - [Acknowledgments](#-acknowledgments)
 
 #### Resources (What, Where, When)
-- [Shelter House Iowa Resources](#1️⃣-shelter-house-iowa-resources)
-- [Eastern Iowa Community Resources](#2️⃣-eastern-iowa-community-resources)
-- [Corridor Peer Pathways Support Services](#3️⃣-corridor-peer-pathways-support-services)
+- [Shelter House Iowa Resources](#shelter-house-iowa-resources)
+- [Eastern Iowa Community Resources](#eastern-iowa-community-resources)
+- [Corridor Peer Pathways Support Services](#corridor-peer-pathways-support-services)
 
 #### Additional
 - [Contributing](#-contributing)
@@ -69,11 +69,6 @@ Field-tested peer support lessons from real-world moments:
 
 ---
 
-# Corridor Peer Pathways
-### An open, living map for Mental Health & Crisis Recovery Peer Support in Eastern Iowa
-
----
-
 ## 🧭 Welcome
 
 **Corridor Peer Pathways** is an open-source, community-maintained peer support resource and practice framework for the I-380 Corridor in Eastern Iowa:
@@ -88,12 +83,6 @@ This project exists to say—quickly and clearly:
 
 We are not building a platform to own recovery.  
 We are building **pathways** so people can find their own.
-
----
-
-## 📚 Philosophy (Who, What, Why)
-
-This section explains the foundation and values behind Corridor Peer Pathways.
 
 ---
 
@@ -181,12 +170,6 @@ I am a graduate and advocate of **Shelter House Iowa** and their **Fairweather L
 **Corridor Peer Pathways** is offered **independently** as an **independent contractor** practice, separate from my employment at Shelter House Iowa.
 
 That distinction is explicit, respectful, and intentional.
-
----
-
-## 📚 Resources (What, Where, When)
-
-This section provides access to support resources in Eastern Iowa.
 
 ---
 

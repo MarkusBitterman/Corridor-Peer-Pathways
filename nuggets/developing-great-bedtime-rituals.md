@@ -30,7 +30,7 @@ Without a ritual, your brain stays in "scan mode" — which is why you can lie i
 
 With a ritual, you're **training your nervous system** to recognize: *"This sequence means safety. This sequence means sleep."*
 
-It's Pavlovian, but for self-care. 🔔🛌
+It's classical conditioning—except you're doing it for yourself, not to yourself. 🔔🛌
 
 ---
 
@@ -46,8 +46,6 @@ Sleep deprivation:
 * Tanks decision-making 🧠🫠
 * Lowers impulse control 🎲
 * Increases anxiety and depression 😰
-* Weakens the immune system 🦠
-* Raises inflammation and pain sensitivity 🩹
 * Makes you more vulnerable to relapse (substances, behaviors, spirals) 🔄
 
 And here's the cruel part:
@@ -332,6 +330,8 @@ And the signal is something you carry **inside you**. 💓
 If you take nothing else from this nugget, take this:
 
 **Brushing your teeth before bed is an act of rebellion.** 🦷✨
+
+Rebellion doesn't have to be loud to be real.
 
 It says:
 

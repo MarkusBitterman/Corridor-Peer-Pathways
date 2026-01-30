@@ -79,7 +79,7 @@ We are building **pathways** so people can find their own.
 
 ## 📚 What's Inside
 
-This repository contains **four main pieces** that work together:
+This repository contains **five main pieces** that work together:
 
 ### 1️⃣ **Peer Support Philosophy**
 Understanding what peer support is, how it works, and why it matters. This is the foundation—grounded in lived experience, mutual respect, and clear boundaries.
@@ -96,7 +96,21 @@ Services offered by **Matthew Hall** (bittermang@duck.com) as an independent pee
 
 👉 **[See full services and contact info →](SERVICES.md)**
 
-### 3️⃣ **[Community & County Resources](resources/)**
+### 3️⃣ **[Golden Nuggets](nuggets/)** 🪛
+**Field-tested peer support lessons from real-world moments**
+
+Nuggets are short, practical peer support frameworks derived from everyday experiences in recovery and daily life. Each "Golden Nugget" takes a real moment—often humorous or frustrating—and extracts a reusable model for emotional regulation, problem-solving, and forward momentum.
+
+**Current Nuggets:**
+- [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – A framework for emotional regulation and Plan B thinking when things don't go as expected
+- [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Understanding emotions as passengers, not drivers, on your life's journey
+- [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Building portable self-care routines that work anywhere you sleep
+
+These are distinct from the community resources below—Nuggets focus on **repeatable peer support methods**, not contact information.
+
+👉 **[Browse Golden Nuggets →](nuggets/)**
+
+### 4️⃣ **[Community & County Resources](resources/)**
 **Complete contact information for 70+ local organizations**
 
 The [resources/](resources/) directory contains comprehensive, verified contact information for:
@@ -123,7 +137,7 @@ The [resources/](resources/) directory contains comprehensive, verified contact 
 
 👉 **[Browse the full resource directory →](resources/)**
 
-### 4️⃣ **Shelter House Iowa Resources**
+### 5️⃣ **Shelter House Iowa Resources**
 A vital community resource and my current employer. I work as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
 
 - **Shelter House Main Office:** (319) 351-0326

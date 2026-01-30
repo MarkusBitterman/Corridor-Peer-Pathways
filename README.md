@@ -20,6 +20,28 @@ We are committed to building a living map of resources that is honest, accessibl
 
 ---
 
+### **README; Table of Contents**
+
+#### Philosophy (Who, What, Why)
+- [Introduction](#introduction)
+- [Welcome](#-welcome)
+- [Philosophy](#-philosophy)
+- [Core Principles](#-core-principles)
+- [Why Open Source?](#-why-open-source)
+- [License](#-license-the-unlicense)
+- [Acknowledgments](#-acknowledgments)
+
+#### Resources (What, Where, When)
+- [Shelter House Iowa Resources](#1️⃣-shelter-house-iowa-resources)
+- [Eastern Iowa Community Resources](#2️⃣-eastern-iowa-community-resources)
+- [Corridor Peer Pathways Support Services](#3️⃣-corridor-peer-pathways-support-services)
+
+#### Additional
+- [Contributing](#-contributing)
+- [Contact](#-contact)
+
+---
+
 ## Quickly Access
 
 ### **Community Resources**
@@ -47,27 +69,6 @@ Field-tested peer support lessons from real-world moments:
 
 ---
 
-### **README; Table of Contents**
-
-- [Introduction](#introduction)
-- [Table of Contents](#table-of-contents)
-- [Quick Resource Access](#emergency-contacts)
-- [What's Inside](#-whats-inside)
-  - [Peer Support Philosophy](#1️⃣-peer-support-philosophy)
-  - [Corridor Peer Pathways Services](#2️⃣-corridor-peer-pathways-services)
-  - [Golden Nuggets](#3️⃣-golden-nuggets-)
-  - [Community & County Resources](#4️⃣-community--county-resources)
-  - [Shelter House Iowa Resources](#5️⃣-shelter-house-iowa-resources)
-- [Philosophy](#-philosophy)
-- [Core Principles](#-core-principles)
-- [Why Open Source?](#-why-open-source)
-- [License](#-license-the-unlicense)
-- [Contributing](#-contributing)
-- [Acknowledgments](#-acknowledgments)
-- [Contact](#-contact)
-
----
-
 # Corridor Peer Pathways
 ### An open, living map for Mental Health & Crisis Recovery Peer Support in Eastern Iowa
 
@@ -90,88 +91,9 @@ We are building **pathways** so people can find their own.
 
 ---
 
-## 📚 What's Inside
+## 📚 Philosophy (Who, What, Why)
 
-This repository contains **five main pieces** that work together:
-
-### 1️⃣ **Peer Support Philosophy**
-Understanding what peer support is, how it works, and why it matters. This is the foundation—grounded in lived experience, mutual respect, and clear boundaries.
-
-### 2️⃣ **[Corridor Peer Pathways Services](SERVICES.md)** 
-Services offered by **Matthew Hall** (bittermang@duck.com) as an independent peer support specialist:
-- Individual peer support and counseling
-- Workshops for healthy living
-- In-home cleaning + peer support
-- Life coaching, fitness, yoga, and mindfulness
-- Transportation mastery (conquer the bus!)
-- TTRPG therapy: "Seven Mirrors 🪞" campaign
-- And more
-
-👉 **[See full services and contact info →](SERVICES.md)**
-
-### 3️⃣ **[Golden Nuggets](nuggets/)** 🪛
-**Field-tested peer support lessons from real-world moments**
-
-Nuggets are short, practical peer support frameworks derived from everyday experiences in recovery and daily life. Each "Golden Nugget" takes a real moment—often humorous or frustrating—and extracts a reusable model for emotional regulation, problem-solving, and forward momentum.
-
-**Current Nuggets:**
-- [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – A framework for emotional regulation and Plan B thinking when things don't go as expected
-- [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Understanding emotions as passengers, not drivers, on your life's journey
-- [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Building portable self-care routines that work anywhere you sleep
-
-These are distinct from the community resources below—Nuggets focus on **repeatable peer support methods**, not contact information.
-
-👉 **[Browse Golden Nuggets →](nuggets/)**
-
-### 4️⃣ **[Community & County Resources](resources/)**
-**Complete contact information for 70+ local organizations**
-
-The [resources/](resources/) directory contains comprehensive, verified contact information for:
-- **Emergency & Crisis Support** (988, Your Life Iowa, 24/7 crisis lines)
-- **Housing & Homelessness Resources** (Shelter House Iowa, emergency shelters)
-- **Food Assistance** (Food banks, pantries, meal programs)
-- **Behavioral Health Services** (Mental health clinics, counseling)
-- **Domestic Violence & Sexual Assault Support** (DVIP, Waypoint, crisis hotlines)
-- **Utility Assistance** (LIHEAP, energy assistance programs)
-- **Job Placement & Résumé Help** (IowaWORKS, workforce development)
-- **Education & Training Grants** (Kirkwood, workforce training programs)
-- **Transportation** (Public transit, paratransit, 380 Express)
-- **Medical Care & Insurance** (Free clinics, health insurance help)
-- **Refugees, New Americans & Displaced Persons** (Resettlement, ESL, cultural support)
-- **Know Your Rights: ICE & Immigration** (Rights-focused information, legal resources)
-
-**All resources include:**
-- Physical addresses
-- Phone numbers
-- Email contacts
-- Websites
-- Hours of operation
-- Services offered
-
-👉 **[Browse the full resource directory →](resources/)**
-
-### 5️⃣ **Shelter House Iowa Resources**
-A vital community resource and my current employer. I work as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
-
-- **Shelter House Main Office:** (319) 351-0326
-- **Address:** 429 Southgate Ave, Iowa City, IA 52240
-- **Website:** [shelterhouseiowa.org](https://shelterhouseiowa.org)
-
-See the [Housing Resources](resources/HOUSING-HOMELESSNESS.md) section for complete information.
-
-**Important:** Corridor Peer Pathways operates **independently** as an **independent contractor** practice, separate from my employment at Shelter House Iowa. This distinction is explicit, respectful, and intentional.
-
----
-
-## 🆘 Quick Emergency Contacts
-
-| Service | Contact | Available |
-|---------|---------|-----------|
-| **Emergency (Life-threatening)** | **911** | 24/7 |
-| **Suicide & Crisis Lifeline** | **988** (call or text) | 24/7 |
-| **Your Life Iowa** | **1-855-581-8111** | 24/7 |
-| **Shelter House (Iowa City)** | (319) 351-0326 | Call for hours |
-| **2-1-1 Resource Referral** | **211** or (319) 739-4211 | 24/7 |
+This section explains the foundation and values behind Corridor Peer Pathways.
 
 ---
 
@@ -259,6 +181,90 @@ I am a graduate and advocate of **Shelter House Iowa** and their **Fairweather L
 **Corridor Peer Pathways** is offered **independently** as an **independent contractor** practice, separate from my employment at Shelter House Iowa.
 
 That distinction is explicit, respectful, and intentional.
+
+---
+
+## 📚 Resources (What, Where, When)
+
+This section provides access to support resources in Eastern Iowa.
+
+---
+
+### 1️⃣ **Shelter House Iowa Resources**
+A vital community resource and my current employer. I work as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
+
+- **Shelter House Main Office:** (319) 351-0326
+- **Address:** 429 Southgate Ave, Iowa City, IA 52240
+- **Website:** [shelterhouseiowa.org](https://shelterhouseiowa.org)
+
+See the [Housing Resources](resources/HOUSING-HOMELESSNESS.md) section for complete information.
+
+**Important:** Corridor Peer Pathways operates **independently** as an **independent contractor** practice, separate from my employment at Shelter House Iowa. This distinction is explicit, respectful, and intentional.
+
+---
+
+### 2️⃣ **Eastern Iowa Community Resources**
+**Complete contact information for 70+ local organizations**
+
+The [resources/](resources/) directory contains comprehensive, verified contact information for:
+- **Emergency & Crisis Support** (988, Your Life Iowa, 24/7 crisis lines)
+- **Housing & Homelessness Resources** (Shelter House Iowa, emergency shelters)
+- **Food Assistance** (Food banks, pantries, meal programs)
+- **Behavioral Health Services** (Mental health clinics, counseling)
+- **Domestic Violence & Sexual Assault Support** (DVIP, Waypoint, crisis hotlines)
+- **Utility Assistance** (LIHEAP, energy assistance programs)
+- **Job Placement & Résumé Help** (IowaWORKS, workforce development)
+- **Education & Training Grants** (Kirkwood, workforce training programs)
+- **Transportation** (Public transit, paratransit, 380 Express)
+- **Medical Care & Insurance** (Free clinics, health insurance help)
+- **Refugees, New Americans & Displaced Persons** (Resettlement, ESL, cultural support)
+- **Know Your Rights: ICE & Immigration** (Rights-focused information, legal resources)
+
+**All resources include:**
+- Physical addresses
+- Phone numbers
+- Email contacts
+- Websites
+- Hours of operation
+- Services offered
+
+👉 **[Browse the full resource directory →](resources/)**
+
+---
+
+### 3️⃣ **Corridor Peer Pathways Support Services**
+
+This repository and the peer support services offered by **Matthew Hall** (bittermang@duck.com) as an independent peer support specialist.
+
+#### **This Repository**
+Community-maintained peer support resources for the I-380 Corridor in Eastern Iowa.
+
+#### **[Golden Nuggets](nuggets/)** 🪛
+**Field-tested peer support lessons from real-world moments**
+
+Nuggets are short, practical peer support frameworks derived from everyday experiences in recovery and daily life. Each "Golden Nugget" takes a real moment—often humorous or frustrating—and extracts a reusable model for emotional regulation, problem-solving, and forward momentum.
+
+**Current Nuggets:**
+- [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – A framework for emotional regulation and Plan B thinking when things don't go as expected
+- [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Understanding emotions as passengers, not drivers, on your life's journey
+- [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Building portable self-care routines that work anywhere you sleep
+
+These are distinct from the community resources above—Nuggets focus on **repeatable peer support methods**, not contact information.
+
+👉 **[Browse Golden Nuggets →](nuggets/)**
+
+#### **Individual Peer Support Services**
+
+👉 **[See full services and contact info →](SERVICES.md)**
+
+Services offered:
+- **Individual peer support and counseling**
+- **Workshops for healthy living**
+- **In-home cleaning + peer support**
+- **Life coaching, fitness, yoga, and mindfulness**
+- **Transportation mastery (conquer the bus!)**
+- **TTRPG therapy: "Seven Mirrors 🪞" campaign**
+- **And more…**
 
 ---
 

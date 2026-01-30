@@ -20,9 +20,9 @@ We are committed to building a living map of resources that is honest, accessibl
 
 ---
 
-## Community Resources; Table of Contents
+## Quickly Access
 
-### **Resource Directory**
+### **Community Resources**
 
 These links guide you to detailed directories for specific support needs:
 - [Emergency & Crisis Resources](resources/EMERGENCY-CRISIS.md)
@@ -38,6 +38,13 @@ These links guide you to detailed directories for specific support needs:
 - [Resources for Refugees & New Americans](resources/REFUGEE-NEW-AMERICANS.md)
 - [Know Your Rights: ICE & Immigration](resources/KNOW-YOUR-RIGHTS-ICE.md)
 
+### **Golden Nuggets**
+
+Field-tested peer support lessons from real-world moments:
+- [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – Emotional regulation & Plan B thinking
+- [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Emotions as passengers, not drivers
+- [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Portable self-care routines
+
 ---
 
 ### **README; Table of Contents**
@@ -45,13 +52,19 @@ These links guide you to detailed directories for specific support needs:
 - [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Quick Resource Access](#emergency-contacts)
-- [Peer Support Philosophy](#philosophy)
-- [Core Principles](#core-principles)
-- [Why Open Source?](#why-open-source)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+- [What's Inside](#-whats-inside)
+  - [Peer Support Philosophy](#1️⃣-peer-support-philosophy)
+  - [Corridor Peer Pathways Services](#2️⃣-corridor-peer-pathways-services)
+  - [Golden Nuggets](#3️⃣-golden-nuggets-)
+  - [Community & County Resources](#4️⃣-community--county-resources)
+  - [Shelter House Iowa Resources](#5️⃣-shelter-house-iowa-resources)
+- [Philosophy](#-philosophy)
+- [Core Principles](#-core-principles)
+- [Why Open Source?](#-why-open-source)
+- [License](#-license-the-unlicense)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
+- [Contact](#-contact)
 
 ---
 

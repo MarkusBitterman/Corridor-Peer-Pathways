@@ -1,13 +1,13 @@
-# Emotional Regulation & Driving a Bus 🚌✨
+# Golden Nugget: Emotional Regulation & Driving a Bus 🚌✨
 
 ## Table of Contents 📍
 
-1. Why the negative ones stick ⚠️
-2. The metaphor 🚌
-3. What regulation actually is 🧭
-4. When emotions get stuck 🪨
-5. When emotions try to drive 🚨
-6. The core takeaway 🌱
+* [Why the negative ones stick ⚠️](#why-the-negative-ones-stick-)
+* [The metaphor 🚌](#the-metaphor-)
+* [What regulation actually is 🧭](#what-regulation-actually-is-)
+* [When emotions get stuck 🪨](#when-emotions-get-stuck-)
+* [When emotions try to drive 🚨](#when-emotions-try-to-drive-)
+* [The core takeaway 🌱](#the-core-takeaway-)
 
 ---
 

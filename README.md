@@ -24,12 +24,12 @@ We are committed to building a living map of resources that is honest, accessibl
 
 #### Philosophy (Who, What, Why)
 - [Introduction](#introduction)
-- [Welcome](#-welcome)
-- [Philosophy](#-philosophy)
-- [Core Principles](#-core-principles)
-- [Why Open Source?](#-why-open-source)
-- [License](#-license-the-unlicense)
-- [Acknowledgments](#-acknowledgments)
+- [Welcome](#🧭-welcome)
+- [Philosophy](#🧠-philosophy)
+- [Core Principles](#🔑-core-principles)
+- [Why Open Source?](#🌱-why-open-source)
+- [License](#📜-license-the-unlicense)
+- [Acknowledgments](#🙏-acknowledgments)
 
 #### Resources (What, Where, When)
 - [Shelter House Iowa Resources](#shelter-house-iowa-resources)
@@ -37,8 +37,8 @@ We are committed to building a living map of resources that is honest, accessibl
 - [Corridor Peer Pathways Support Services](#corridor-peer-pathways-support-services)
 
 #### Additional
-- [Contributing](#-contributing)
-- [Contact](#-contact)
+- [Contributing](#🔧-contributing)
+- [Contact](#📬-contact)
 
 ---
 
@@ -173,7 +173,7 @@ That distinction is explicit, respectful, and intentional.
 
 ---
 
-### 1️⃣ **Shelter House Iowa Resources**
+### **Shelter House Iowa Resources**
 A vital community resource and my current employer. I work as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
 
 - **Shelter House Main Office:** (319) 351-0326
@@ -186,7 +186,7 @@ See the [Housing Resources](resources/HOUSING-HOMELESSNESS.md) section for compl
 
 ---
 
-### 2️⃣ **Eastern Iowa Community Resources**
+### **Eastern Iowa Community Resources**
 **Complete contact information for 70+ local organizations**
 
 The [resources/](resources/) directory contains comprehensive, verified contact information for:
@@ -215,7 +215,7 @@ The [resources/](resources/) directory contains comprehensive, verified contact 
 
 ---
 
-### 3️⃣ **Corridor Peer Pathways Support Services**
+### **Corridor Peer Pathways Support Services**
 
 This repository and the peer support services offered by **Matthew Hall** (bittermang@duck.com) as an independent peer support specialist.
 

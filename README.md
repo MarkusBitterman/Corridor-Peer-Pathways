@@ -103,10 +103,8 @@ Nuggets are short, practical peer support frameworks derived from everyday exper
 
 **Current Nuggets:**
 - [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – A framework for emotional regulation and Plan B thinking when things don't go as expected
-
-**Coming Soon:**
-- Emotional Regulation & Driving a Bus
-- Developing Great Bedtime Rituals; Keeping Them Wherever You Sleep
+- [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Understanding emotions as passengers, not drivers, on your life's journey
+- [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Building portable self-care routines that work anywhere you sleep
 
 These are distinct from the community resources below—Nuggets focus on **repeatable peer support methods**, not contact information.
 

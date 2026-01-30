@@ -16,23 +16,25 @@ The trick is **not letting the missing tool hijack your nervous system** long en
 
 ---
 
-## Table of Contents 🧭
+## Table of Contents
+🧭
 
-* [1) The pivot 🎬➡️🧭](#1-the-pivot-)
-* [2) Why this is a Peer Support "Golden Nugget" 💛🪨](#2-why-this-is-a-peer-support-golden-nugget-)
-* [3) The hidden boss fight: emotional regulation 😤➡️😮‍💨](#3-the-hidden-boss-fight-emotional-regulation-)
-* [4) Anchor yourself 🔱⚓](#4-anchor-yourself-)
-* [5) Find the screwdriver right now 🪛🕵🏻‍♂️](#5-find-the-screwdriver-right-now-)
-* [6) Take a break or have a Plan B 🍱⛓️‍💥](#6-take-a-break-or-have-a-plan-b-)
-* [7) Stay organized during the task 🧰🧠](#7-stay-organized-during-the-task-)
-* [8) The model: Anchor → Rewind → Radius → Light → Break → System 📐🌌](#8-the-model-anchor--rewind--radius--light--break--system-)
-* [9) Tiny script you can borrow 🗣️](#9-tiny-script-you-can-borrow-)
-* [10) Closer: the real magic trick 🪄🫶](#10-closer-the-real-magic-trick-)
-* [Notes 📝](#notes-)
+* [1) The pivot](#1-the-pivot)
+* [2) Why this is a Peer Support "Golden Nugget"](#2-why-this-is-a-peer-support-golden-nugget)
+* [3) The hidden boss fight: emotional regulation](#3-the-hidden-boss-fight-emotional-regulation)
+* [4) Anchor yourself](#4-anchor-yourself)
+* [5) Find the screwdriver right now](#5-find-the-screwdriver-right-now)
+* [6) Take a break or have a Plan B](#6-take-a-break-or-have-a-plan-b)
+* [7) Stay organized during the task](#7-stay-organized-during-the-task)
+* [8) The model: Anchor → Rewind → Radius → Light → Break → System](#8-the-model-anchor--rewind--radius--light--break--system)
+* [9) Tiny script you can borrow](#9-tiny-script-you-can-borrow)
+* [10) Closer: the real magic trick](#10-closer-the-real-magic-trick)
+* [Notes](#notes)
 
 ---
 
-## 1) The pivot 🎬➡️🧭
+## 1) The pivot
+🎬➡️🧭
 
 There's a moment—right after you realize the screwdriver is gone—where your brain tries to write a horror novel:
 
@@ -59,7 +61,8 @@ And yes, the screwdriver is probably…
 
 ---
 
-## 2) Why this is a Peer Support "Golden Nugget" 💛🪨
+## 2) Why this is a Peer Support "Golden Nugget"
+💛🪨
 
 A **Golden Nugget** is a small, real-world lesson you can actually carry forward—because you earned it in the wild.
 
@@ -90,7 +93,8 @@ It generalizes to **everything** that disappears the second your brain opens a n
 
 ---
 
-## 3) The hidden boss fight: emotional regulation 😤➡️😮‍💨
+## 3) The hidden boss fight: emotional regulation
+😤➡️😮‍💨
 
 When you misplace something, half the battle becomes:
 
@@ -116,7 +120,8 @@ So the boss fight is: **keep the room stable long enough for your eyes to work.*
 
 ---
 
-## 4) Anchor yourself 🔱⚓
+## 4) Anchor yourself
+🔱⚓
 
 My out-loud anchor phrase is:
 
@@ -147,7 +152,8 @@ And boring is powerful. 🥱💪
 
 ---
 
-## 5) Find the screwdriver right now 🪛🕵🏻‍♂️
+## 5) Find the screwdriver right now
+🪛🕵🏻‍♂️
 
 Here's the "tiny-room protocol."
 
@@ -202,7 +208,8 @@ Sound is sneaky good when vision is overloaded.
 
 ---
 
-## 6) Take a break or have a Plan B 🍱⛓️‍💥
+## 6) Take a break or have a Plan B
+🍱⛓️‍💥
 
 If it's not dire urgent (car or house keys 🔑, launch codes, ☢️ your birth certificate 🪪, an invasive lizard 🦎); you can do the most powerful move in the toolkit.
 
@@ -226,7 +233,8 @@ That's your nervous system unclenching enough for your perception to come back o
 
 ---
 
-## 7) Stay organized during the task 🧰🧠
+## 7) Stay organized during the task
+🧰🧠
 
 This part is not moralizing.
 
@@ -274,7 +282,8 @@ Your future self will feel like you hired a tiny invisible assistant. 🧚‍♀
 
 ---
 
-## 8) The model: Anchor → Rewind → Radius → Light → Break → System 📐🌌
+## 8) The model: Anchor → Rewind → Radius → Light → Break → System
+📐🌌
 
 This is the meat. 🥩✨
 
@@ -372,7 +381,8 @@ You **become supported**—by your own design. 🫶📐
 
 ---
 
-## 9) Tiny script you can borrow 🗣️
+## 9) Tiny script you can borrow
+🗣️
 
 Use this out loud if you're spiraling:
 
@@ -392,7 +402,8 @@ Use this out loud if you're spiraling:
 
 ---
 
-## 10) Closer: the real magic trick 🪄🫶
+## 10) Closer: the real magic trick
+🪄🫶
 
 Here's the punchline the carnival barker never tells you:
 
@@ -464,7 +475,8 @@ And practice is how we turn "magic tricks that ruin our day" into "skills that q
 
 ---
 
-## Notes 📝
+## Notes
+📝
 
 This resource is meant for everyday memory slips and stress moments.
 

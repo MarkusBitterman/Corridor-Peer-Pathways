@@ -1,18 +1,20 @@
 # Golden Nugget: Developing Great Bedtime Rituals; Keeping Them Wherever You Sleep 🌙✨🛏️
 
-## Table of Contents 🧭
+## Table of Contents
+🧭
 
-* [1) What is a bedtime ritual? 🕯️](#1-what-is-a-bedtime-ritual-)
-* [2) Why this is one of the most important pieces of self-care 💛](#2-why-this-is-one-of-the-most-important-pieces-of-self-care-)
-* [3) What does a good ritual look like in practice? 🧼](#3-what-does-a-good-ritual-look-like-in-practice-)
-* [4) Keeping your ritual in unfamiliar places 🏨](#4-keeping-your-ritual-in-unfamiliar-places-)
-* [5) The health benefits: sleep, bathing, and oral care 🦷](#5-the-health-benefits-sleep-bathing-and-oral-care-)
-* [6) Resources for hygiene products 🧴](#6-resources-for-hygiene-products-)
-* [7) The ritual is the anchor, not the location 🔱](#7-the-ritual-is-the-anchor-not-the-location-)
+* [1) What is a bedtime ritual?](#1-what-is-a-bedtime-ritual)
+* [2) Why this is one of the most important pieces of self-care](#2-why-this-is-one-of-the-most-important-pieces-of-self-care)
+* [3) What does a good ritual look like in practice?](#3-what-does-a-good-ritual-look-like-in-practice)
+* [4) Keeping your ritual in unfamiliar places](#4-keeping-your-ritual-in-unfamiliar-places)
+* [5) The health benefits: sleep, bathing, and oral care](#5-the-health-benefits-sleep-bathing-and-oral-care)
+* [6) Resources for hygiene products](#6-resources-for-hygiene-products)
+* [7) The ritual is the anchor, not the location](#7-the-ritual-is-the-anchor-not-the-location)
 
 ---
 
-## 1) What is a bedtime ritual? 🕯️
+## 1) What is a bedtime ritual?
+🕯️
 
 A bedtime ritual is not "going to bed."
 
@@ -34,7 +36,8 @@ It's classical conditioning—except you're doing it for yourself, not to yourse
 
 ---
 
-## 2) Why this is one of the most important pieces of self-care 💛
+## 2) Why this is one of the most important pieces of self-care
+💛
 
 Because **everything else breaks down without sleep**. 🧱💥
 
@@ -58,7 +61,8 @@ It's not about getting perfect sleep every night. It's about **building the infr
 
 ---
 
-## 3) What does a good ritual look like in practice? 🧼
+## 3) What does a good ritual look like in practice?
+🧼
 
 Here's the key: **your ritual should be portable, repeatable, and mostly under your control**. 🎒✅
 
@@ -126,7 +130,8 @@ Examples:
 
 ---
 
-## 4) Keeping your ritual in unfamiliar places 🏨
+## 4) Keeping your ritual in unfamiliar places
+🏨
 
 This is where the ritual becomes a **superpower**. 💪✨
 
@@ -173,7 +178,8 @@ Pack these in a small bag or keep them accessible:
 
 ---
 
-## 5) The health benefits: sleep, bathing, and oral care 🦷
+## 5) The health benefits: sleep, bathing, and oral care
+🦷
 
 Let's get specific about why these matter. 🧬
 
@@ -227,7 +233,8 @@ Brushing your teeth before bed:
 
 ---
 
-## 6) Resources for hygiene products 🧴
+## 6) Resources for hygiene products
+🧴
 
 If you're struggling to access basic hygiene supplies, the following local resources can help:
 
@@ -283,7 +290,8 @@ If you're struggling to access basic hygiene supplies, the following local resou
 
 ---
 
-## 7) The ritual is the anchor, not the location 🔱
+## 7) The ritual is the anchor, not the location
+🔱
 
 Here's the truth:
 

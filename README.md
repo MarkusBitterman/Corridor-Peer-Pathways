@@ -24,12 +24,12 @@ We are committed to building a living map of resources that is honest, accessibl
 
 #### Philosophy (Who, What, Why)
 - [Introduction](#introduction)
-- [Welcome](#🧭-welcome)
-- [Philosophy](#🧠-philosophy)
-- [Core Principles](#🔑-core-principles)
-- [Why Open Source?](#🌱-why-open-source)
-- [License](#📜-license-the-unlicense)
-- [Acknowledgments](#🙏-acknowledgments)
+- [Welcome](#welcome)
+- [Philosophy](#philosophy)
+- [Core Principles](#core-principles)
+- [Why Open Source?](#why-open-source)
+- [License](#license-the-unlicense)
+- [Acknowledgments](#acknowledgments)
 
 #### Resources (What, Where, When)
 - [Shelter House Iowa Resources](#shelter-house-iowa-resources)
@@ -37,8 +37,8 @@ We are committed to building a living map of resources that is honest, accessibl
 - [Corridor Peer Pathways Support Services](#corridor-peer-pathways-support-services)
 
 #### Additional
-- [Contributing](#🔧-contributing)
-- [Contact](#📬-contact)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 ---
 
@@ -69,7 +69,8 @@ Field-tested peer support lessons from real-world moments:
 
 ---
 
-## 🧭 Welcome
+## Welcome
+🧭
 
 **Corridor Peer Pathways** is an open-source, community-maintained peer support resource and practice framework for the I-380 Corridor in Eastern Iowa:
 
@@ -86,7 +87,8 @@ We are building **pathways** so people can find their own.
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
+🧠
 
 This is a public-good repository containing:
 - A **peer support philosophy** grounded in lived experience
@@ -101,7 +103,8 @@ This is a **map left out in the open**.
 
 ---
 
-## 🔑 Core Principles
+## Core Principles
+🔑
 
 ### Peer Support, Explained Plainly
 - Grounded in **lived experience**
@@ -136,7 +139,8 @@ Recovery sticks when it has texture:
 
 ---
 
-## 🌱 Why Open Source?
+## Why Open Source?
+🌱
 
 Because recovery was never meant to be proprietary.
 
@@ -149,7 +153,8 @@ This repo exists so that path doesn't vanish behind me.
 
 ---
 
-## 📜 License: The Unlicense
+## License: The Unlicense
+📜
 
 This project is released into the **public domain**.
 
@@ -162,7 +167,8 @@ You may:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
+🙏
 
 ### Independence & Transparency
 I am a graduate and advocate of **Shelter House Iowa** and their **Fairweather Lodge** program. I currently work at Shelter House Iowa as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building.
@@ -232,13 +238,18 @@ Nuggets are short, practical peer support frameworks derived from everyday exper
 - [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Understanding emotions as passengers, not drivers, on your life's journey
 - [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Building portable self-care routines that work anywhere you sleep
 
-These are distinct from the community resources above—Nuggets focus on **repeatable peer support methods**, not contact information.
+These Golden Nuggets draw from lived experience to help us live with mindfulness and greater understanding. They are distinct from the community resources above—Nuggets focus on **repeatable peer support methods**, not contact information.
+
+**We welcome your contributions.** If you have lived experiences that could help others navigate their own journeys, we invite you to share them with this repository. Your story might become the next Golden Nugget that helps someone find their way.
 
 👉 **[Browse Golden Nuggets →](nuggets/)**
 
 #### **Individual Peer Support Services**
 
-👉 **[See full services and contact info →](SERVICES.md)**
+**How to Contact and Schedule:**
+
+📧 **Email:** bittermang@duck.com  
+📄 **Full Services & Scheduling:** See [SERVICES.md](SERVICES.md) for detailed information on how to schedule and what to expect.
 
 Services offered:
 - **Individual peer support and counseling**
@@ -251,9 +262,22 @@ Services offered:
 
 ---
 
-## 🔧 Contributing
+## Contributing
+🔧
+
+This resource exists because of the decades of dedication from software engineers and the concept of liberty with open source. These values—transparency, collaboration, and freely shared knowledge—align perfectly with peer support philosophy: recovery was never meant to be proprietary.
 
 **Corridor Peer Pathways** is not finished. It is **maintained**—by people who are still here.
+
+This repository is a living map of what we hope can grow: a community-driven resource where lived experience meets practical support, where anyone can find help and everyone can contribute.
+
+### We Invite You To:
+- ⭐ **Give us a star** – Help others discover this resource
+- 🔗 **Share this repository** – With communities who might benefit
+- 🤝 **Contribute your experience** – Add resources, improve documentation, or share your lived experience
+- 🍴 **Fork and localize** – Build one for your own community and experience
+
+> **Steal this information and use it to live well. I cannot hold the copyright for how to live well. ♾️**
 
 ### How to Help
 - **Report outdated information:** Open an issue
@@ -267,7 +291,8 @@ Contribution guidelines coming soon. For now: if it helps people find support, i
 
 ---
 
-## 📬 Contact
+## Contact
+📬
 
 ### For Corridor Peer Pathways Services
 **Matthew Hall, Peer Support Specialist**  

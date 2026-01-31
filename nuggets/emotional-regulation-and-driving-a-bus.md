@@ -1,19 +1,17 @@
 # Golden Nugget: Emotional Regulation & Driving a Bus 🚌✨
 
-## Table of Contents
-📍
+## 📍 Table of Contents
 
-* [Why the negative ones stick](#why-the-negative-ones-stick)
-* [The metaphor](#the-metaphor)
-* [What regulation actually is](#what-regulation-actually-is)
-* [When emotions get stuck](#when-emotions-get-stuck)
-* [When emotions try to drive](#when-emotions-try-to-drive)
-* [The core takeaway](#the-core-takeaway)
+* [Why the negative ones stick ⚠️](#why-the-negative-ones-stick-️)
+* [The metaphor 🚌](#the-metaphor-)
+* [What regulation actually is 🧭](#what-regulation-actually-is-)
+* [When emotions get stuck 🪨](#when-emotions-get-stuck-)
+* [When emotions try to drive 🚨](#when-emotions-try-to-drive-)
+* [The core takeaway 🌱](#the-core-takeaway-)
 
 ---
 
-## Why the negative ones stick
-⚠️
+## ⚠️ Why the negative ones stick
 
 A question came up in a casual internet conversation that landed harder than expected:
 
@@ -39,8 +37,7 @@ That's where regulation comes in.
 
 ---
 
-## The metaphor
-🚌
+## 🚌 The metaphor
 
 A psychiatrist once explained emotional regulation like this:
 
@@ -56,8 +53,7 @@ The problem begins when the passengers forget they are passengers 🎟️ on *yo
 
 ---
 
-## What regulation actually is
-🧭
+## 🧭 What regulation actually is
 
 Emotional regulation is not suppressing feelings, ejecting passengers, or pretending the bus is empty.
 
@@ -72,8 +68,7 @@ Discipline, in this frame, is not punishment or rigidity. It is *leadership*. It
 
 ---
 
-## When emotions get stuck
-🪨
+## 🪨 When emotions get stuck
 
 Some emotions don't know where to get off.
 
@@ -90,8 +85,7 @@ Therapy, reflection, peer support, and mindfulness are not about kicking these p
 
 ---
 
-## When emotions try to drive
-🚨
+## 🚨 When emotions try to drive
 
 Occasionally, a passenger will rush the front.
 
@@ -105,8 +99,7 @@ The goal is not to shame yourself for losing control. The goal is to notice it s
 
 ---
 
-## The core takeaway
-🌱
+## 🌱 The core takeaway
 
 You are not your emotions.
 

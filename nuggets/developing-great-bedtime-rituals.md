@@ -2,13 +2,13 @@
 
 ## Table of Contents 🧭
 
-* [1) What is a bedtime ritual? 🕯️](#1-what-is-a-bedtime-ritual-)
-* [2) Why this is one of the most important pieces of self-care 💛](#2-why-this-is-one-of-the-most-important-pieces-of-self-care-)
-* [3) What does a good ritual look like in practice? 🧼](#3-what-does-a-good-ritual-look-like-in-practice-)
-* [4) Keeping your ritual in unfamiliar places 🏨](#4-keeping-your-ritual-in-unfamiliar-places-)
-* [5) The health benefits: sleep, bathing, and oral care 🦷](#5-the-health-benefits-sleep-bathing-and-oral-care-)
-* [6) Resources for hygiene products 🧴](#6-resources-for-hygiene-products-)
-* [7) The ritual is the anchor, not the location 🔱](#7-the-ritual-is-the-anchor-not-the-location-)
+* [1) What is a bedtime ritual?](#1-what-is-a-bedtime-ritual-️)
+* [2) Why this is one of the most important pieces of self-care](#2-why-this-is-one-of-the-most-important-pieces-of-self-care-)
+* [3) What does a good ritual look like in practice?](#3-what-does-a-good-ritual-look-like-in-practice-)
+* [4) Keeping your ritual in unfamiliar places](#4-keeping-your-ritual-in-unfamiliar-places-)
+* [5) The health benefits: sleep, bathing, and oral care](#5-the-health-benefits-sleep-bathing-and-oral-care-)
+* [6) Resources for hygiene products](#6-resources-for-hygiene-products-)
+* [7) The ritual is the anchor, not the location](#7-the-ritual-is-the-anchor-not-the-location-)
 
 ---
 

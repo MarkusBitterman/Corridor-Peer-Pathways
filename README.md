@@ -20,9 +20,31 @@ We are committed to building a living map of resources that is honest, accessibl
 
 ---
 
-## Community Resources; Table of Contents
+### **README; Table of Contents**
 
-### **Resource Directory**
+#### Philosophy (Who, What, Why)
+- [Introduction](#introduction)
+- [Welcome](#welcome-)
+- [Philosophy](#philosophy-)
+- [Core Principles](#core-principles-)
+- [Why Open Source?](#why-open-source-)
+- [License](#license-the-unlicense-)
+- [Acknowledgments](#acknowledgments-)
+
+#### Resources (What, Where, When)
+- [Shelter House Iowa Resources](#shelter-house-iowa-resources)
+- [Eastern Iowa Community Resources](#eastern-iowa-community-resources)
+- [Corridor Peer Pathways Support Services](#corridor-peer-pathways-support-services)
+
+#### Additional
+- [Contributing](#contributing-)
+- [Contact](#contact-)
+
+---
+
+## Quickly Access
+
+### **Community Resources**
 
 These links guide you to detailed directories for specific support needs:
 - [Emergency & Crisis Resources](resources/EMERGENCY-CRISIS.md)
@@ -38,29 +60,16 @@ These links guide you to detailed directories for specific support needs:
 - [Resources for Refugees & New Americans](resources/REFUGEE-NEW-AMERICANS.md)
 - [Know Your Rights: ICE & Immigration](resources/KNOW-YOUR-RIGHTS-ICE.md)
 
----
+### **Golden Nuggets**
 
-### **README; Table of Contents**
-
-- [Introduction](#introduction)
-- [Table of Contents](#table-of-contents)
-- [Quick Resource Access](#emergency-contacts)
-- [Peer Support Philosophy](#philosophy)
-- [Core Principles](#core-principles)
-- [Why Open Source?](#why-open-source)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+Field-tested peer support lessons from real-world moments:
+- [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – Emotional regulation & Plan B thinking
+- [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Emotions as passengers, not drivers
+- [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Portable self-care routines
 
 ---
 
-# Corridor Peer Pathways
-### An open, living map for Mental Health & Crisis Recovery Peer Support in Eastern Iowa
-
----
-
-## 🧭 Welcome
+## Welcome 🧭
 
 **Corridor Peer Pathways** is an open-source, community-maintained peer support resource and practice framework for the I-380 Corridor in Eastern Iowa:
 
@@ -77,92 +86,7 @@ We are building **pathways** so people can find their own.
 
 ---
 
-## 📚 What's Inside
-
-This repository contains **five main pieces** that work together:
-
-### 1️⃣ **Peer Support Philosophy**
-Understanding what peer support is, how it works, and why it matters. This is the foundation—grounded in lived experience, mutual respect, and clear boundaries.
-
-### 2️⃣ **[Corridor Peer Pathways Services](SERVICES.md)** 
-Services offered by **Matthew Hall** (bittermang@duck.com) as an independent peer support specialist:
-- Individual peer support and counseling
-- Workshops for healthy living
-- In-home cleaning + peer support
-- Life coaching, fitness, yoga, and mindfulness
-- Transportation mastery (conquer the bus!)
-- TTRPG therapy: "Seven Mirrors 🪞" campaign
-- And more
-
-👉 **[See full services and contact info →](SERVICES.md)**
-
-### 3️⃣ **[Golden Nuggets](nuggets/)** 🪛
-**Field-tested peer support lessons from real-world moments**
-
-Nuggets are short, practical peer support frameworks derived from everyday experiences in recovery and daily life. Each "Golden Nugget" takes a real moment—often humorous or frustrating—and extracts a reusable model for emotional regulation, problem-solving, and forward momentum.
-
-**Current Nuggets:**
-- [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – A framework for emotional regulation and Plan B thinking when things don't go as expected
-- [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Understanding emotions as passengers, not drivers, on your life's journey
-- [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Building portable self-care routines that work anywhere you sleep
-
-These are distinct from the community resources below—Nuggets focus on **repeatable peer support methods**, not contact information.
-
-👉 **[Browse Golden Nuggets →](nuggets/)**
-
-### 4️⃣ **[Community & County Resources](resources/)**
-**Complete contact information for 70+ local organizations**
-
-The [resources/](resources/) directory contains comprehensive, verified contact information for:
-- **Emergency & Crisis Support** (988, Your Life Iowa, 24/7 crisis lines)
-- **Housing & Homelessness Resources** (Shelter House Iowa, emergency shelters)
-- **Food Assistance** (Food banks, pantries, meal programs)
-- **Behavioral Health Services** (Mental health clinics, counseling)
-- **Domestic Violence & Sexual Assault Support** (DVIP, Waypoint, crisis hotlines)
-- **Utility Assistance** (LIHEAP, energy assistance programs)
-- **Job Placement & Résumé Help** (IowaWORKS, workforce development)
-- **Education & Training Grants** (Kirkwood, workforce training programs)
-- **Transportation** (Public transit, paratransit, 380 Express)
-- **Medical Care & Insurance** (Free clinics, health insurance help)
-- **Refugees, New Americans & Displaced Persons** (Resettlement, ESL, cultural support)
-- **Know Your Rights: ICE & Immigration** (Rights-focused information, legal resources)
-
-**All resources include:**
-- Physical addresses
-- Phone numbers
-- Email contacts
-- Websites
-- Hours of operation
-- Services offered
-
-👉 **[Browse the full resource directory →](resources/)**
-
-### 5️⃣ **Shelter House Iowa Resources**
-A vital community resource and my current employer. I work as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
-
-- **Shelter House Main Office:** (319) 351-0326
-- **Address:** 429 Southgate Ave, Iowa City, IA 52240
-- **Website:** [shelterhouseiowa.org](https://shelterhouseiowa.org)
-
-See the [Housing Resources](resources/HOUSING-HOMELESSNESS.md) section for complete information.
-
-**Important:** Corridor Peer Pathways operates **independently** as an **independent contractor** practice, separate from my employment at Shelter House Iowa. This distinction is explicit, respectful, and intentional.
-
----
-
-## 🆘 Quick Emergency Contacts
-
-| Service | Contact | Available |
-|---------|---------|-----------|
-| **Emergency (Life-threatening)** | **911** | 24/7 |
-| **Suicide & Crisis Lifeline** | **988** (call or text) | 24/7 |
-| **Your Life Iowa** | **1-855-581-8111** | 24/7 |
-| **Shelter House (Iowa City)** | (319) 351-0326 | Call for hours |
-| **2-1-1 Resource Referral** | **211** or (319) 739-4211 | 24/7 |
-
----
-
-## 🧠 Philosophy
+## Philosophy 🧠
 
 This is a public-good repository containing:
 - A **peer support philosophy** grounded in lived experience
@@ -177,7 +101,7 @@ This is a **map left out in the open**.
 
 ---
 
-## 🔑 Core Principles
+## Core Principles 🔑
 
 ### Peer Support, Explained Plainly
 - Grounded in **lived experience**
@@ -212,7 +136,7 @@ Recovery sticks when it has texture:
 
 ---
 
-## 🌱 Why Open Source?
+## Why Open Source? 🌱
 
 Because recovery was never meant to be proprietary.
 
@@ -225,7 +149,7 @@ This repo exists so that path doesn't vanish behind me.
 
 ---
 
-## 📜 License: The Unlicense
+## License: The Unlicense 📜
 
 This project is released into the **public domain**.
 
@@ -238,7 +162,7 @@ You may:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments 🙏
 
 ### Independence & Transparency
 I am a graduate and advocate of **Shelter House Iowa** and their **Fairweather Lodge** program. I currently work at Shelter House Iowa as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building.
@@ -249,9 +173,104 @@ That distinction is explicit, respectful, and intentional.
 
 ---
 
-## 🔧 Contributing
+### **Shelter House Iowa Resources**
+A vital community resource and my current employer. I work as **Senior Fresh Starts Janitor and Peer Support** at the 501 Southgate building. Shelter House provides emergency shelter, transitional housing, and the **Fairweather Lodge** supportive housing program for individuals with mental illness.
+
+- **Shelter House Main Office:** (319) 351-0326
+- **Address:** 429 Southgate Ave, Iowa City, IA 52240
+- **Website:** [shelterhouseiowa.org](https://shelterhouseiowa.org)
+
+See the [Housing Resources](resources/HOUSING-HOMELESSNESS.md) section for complete information.
+
+**Important:** Corridor Peer Pathways operates **independently** as an **independent contractor** practice, separate from my employment at Shelter House Iowa. This distinction is explicit, respectful, and intentional.
+
+---
+
+### **Eastern Iowa Community Resources**
+**Complete contact information for 70+ local organizations**
+
+The [resources/](resources/) directory contains comprehensive, verified contact information for:
+- **Emergency & Crisis Support** (988, Your Life Iowa, 24/7 crisis lines)
+- **Housing & Homelessness Resources** (Shelter House Iowa, emergency shelters)
+- **Food Assistance** (Food banks, pantries, meal programs)
+- **Behavioral Health Services** (Mental health clinics, counseling)
+- **Domestic Violence & Sexual Assault Support** (DVIP, Waypoint, crisis hotlines)
+- **Utility Assistance** (LIHEAP, energy assistance programs)
+- **Job Placement & Résumé Help** (IowaWORKS, workforce development)
+- **Education & Training Grants** (Kirkwood, workforce training programs)
+- **Transportation** (Public transit, paratransit, 380 Express)
+- **Medical Care & Insurance** (Free clinics, health insurance help)
+- **Refugees, New Americans & Displaced Persons** (Resettlement, ESL, cultural support)
+- **Know Your Rights: ICE & Immigration** (Rights-focused information, legal resources)
+
+**All resources include:**
+- Physical addresses
+- Phone numbers
+- Email contacts
+- Websites
+- Hours of operation
+- Services offered
+
+👉 **[Browse the full resource directory →](resources/)**
+
+---
+
+### **Corridor Peer Pathways Support Services**
+
+This repository and the peer support services offered by **Matthew Hall** (bittermang@duck.com) as an independent peer support specialist.
+
+#### **This Repository**
+Community-maintained peer support resources for the I-380 Corridor in Eastern Iowa.
+
+#### **[Golden Nuggets](nuggets/)** 🪛
+**Field-tested peer support lessons from real-world moments**
+
+Nuggets are short, practical peer support frameworks derived from everyday experiences in recovery and daily life. Each "Golden Nugget" takes a real moment—often humorous or frustrating—and extracts a reusable model for emotional regulation, problem-solving, and forward momentum.
+
+**Current Nuggets:**
+- [The Incredible Vanishing Screwdriver](nuggets/the-incredible-missing-screwdriver.md) – A framework for emotional regulation and Plan B thinking when things don't go as expected
+- [Emotional Regulation & Driving a Bus](nuggets/emotional-regulation-and-driving-a-bus.md) – Understanding emotions as passengers, not drivers, on your life's journey
+- [Developing Great Bedtime Rituals](nuggets/developing-great-bedtime-rituals.md) – Building portable self-care routines that work anywhere you sleep
+
+These Golden Nuggets draw from lived experience to help us live with mindfulness and greater understanding. They are distinct from the community resources above—Nuggets focus on **repeatable peer support methods**, not contact information.
+
+**We welcome your contributions.** If you have lived experiences that could help others navigate their own journeys, we invite you to share them with this repository. Your story might become the next Golden Nugget that helps someone find their way.
+
+👉 **[Browse Golden Nuggets →](nuggets/)**
+
+#### **Individual Peer Support Services**
+
+**How to Contact and Schedule:**
+
+📧 **Email:** bittermang@duck.com  
+📄 **Full Services & Scheduling:** See [SERVICES.md](SERVICES.md) for detailed information on how to schedule and what to expect.
+
+Services offered:
+- **Individual peer support and counseling**
+- **Workshops for healthy living**
+- **In-home cleaning + peer support**
+- **Life coaching, fitness, yoga, and mindfulness**
+- **Transportation mastery (conquer the bus!)**
+- **TTRPG therapy: "Seven Mirrors 🪞" campaign**
+- **And more…**
+
+---
+
+## Contributing 🔧
+
+This resource exists because of the decades of dedication from software engineers and the concept of liberty with open source. These values—transparency, collaboration, and freely shared knowledge—align perfectly with peer support philosophy: recovery was never meant to be proprietary.
 
 **Corridor Peer Pathways** is not finished. It is **maintained**—by people who are still here.
+
+This repository is a living map of what we hope can grow: a community-driven resource where lived experience meets practical support, where anyone can find help and everyone can contribute.
+
+### We Invite You To:
+- ⭐ **Give us a star** – Help others discover this resource
+- 🔗 **Share this repository** – With communities who might benefit
+- 🤝 **Contribute your experience** – Add resources, improve documentation, or share your lived experience
+- 🍴 **Fork and localize** – Build one for your own community and experience
+
+> **Steal this information and use it to live well. I cannot hold the copyright for how to live well. ♾️**
 
 ### How to Help
 - **Report outdated information:** Open an issue
@@ -265,7 +284,7 @@ Contribution guidelines coming soon. For now: if it helps people find support, i
 
 ---
 
-## 📬 Contact
+## Contact 📬
 
 ### For Corridor Peer Pathways Services
 **Matthew Hall, Peer Support Specialist**  

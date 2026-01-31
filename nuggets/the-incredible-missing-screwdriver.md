@@ -18,17 +18,17 @@ The trick is **not letting the missing tool hijack your nervous system** long en
 
 ## Table of Contents 🧭
 
-* [1) The pivot 🎬➡️🧭](#1-the-pivot-)
-* [2) Why this is a Peer Support "Golden Nugget" 💛🪨](#2-why-this-is-a-peer-support-golden-nugget-)
-* [3) The hidden boss fight: emotional regulation 😤➡️😮‍💨](#3-the-hidden-boss-fight-emotional-regulation-)
-* [4) Anchor yourself 🔱⚓](#4-anchor-yourself-)
-* [5) Find the screwdriver right now 🪛🕵🏻‍♂️](#5-find-the-screwdriver-right-now-)
-* [6) Take a break or have a Plan B 🍱⛓️‍💥](#6-take-a-break-or-have-a-plan-b-)
-* [7) Stay organized during the task 🧰🧠](#7-stay-organized-during-the-task-)
-* [8) The model: Anchor → Rewind → Radius → Light → Break → System 📐🌌](#8-the-model-anchor--rewind--radius--light--break--system-)
-* [9) Tiny script you can borrow 🗣️](#9-tiny-script-you-can-borrow-)
-* [10) Closer: the real magic trick 🪄🫶](#10-closer-the-real-magic-trick-)
-* [Notes 📝](#notes-)
+* [1) The pivot](#1-the-pivot-️️)
+* [2) Why this is a Peer Support "Golden Nugget"](#2-why-this-is-a-peer-support-golden-nugget-)
+* [3) The hidden boss fight: emotional regulation](#3-the-hidden-boss-fight-emotional-regulation-️️)
+* [4) Anchor yourself](#4-anchor-yourself-)
+* [5) Find the screwdriver right now](#5-find-the-screwdriver-right-now-️️)
+* [6) Take a break or have a Plan B](#6-take-a-break-or-have-a-plan-b-️️)
+* [7) Stay organized during the task](#7-stay-organized-during-the-task-)
+* [8) The model: Anchor → Rewind → Radius → Light → Break → System](#8-the-model-anchor--rewind--radius--light--break--system-)
+* [9) Tiny script you can borrow](#9-tiny-script-you-can-borrow-️)
+* [10) Closer: the real magic trick](#10-closer-the-real-magic-trick-)
+* [Notes](#notes-)
 
 ---
 

@@ -2,12 +2,12 @@
 
 ## Table of Contents 📍
 
-* [Why the negative ones stick ⚠️](#why-the-negative-ones-stick-)
-* [The metaphor 🚌](#the-metaphor-)
-* [What regulation actually is 🧭](#what-regulation-actually-is-)
-* [When emotions get stuck 🪨](#when-emotions-get-stuck-)
-* [When emotions try to drive 🚨](#when-emotions-try-to-drive-)
-* [The core takeaway 🌱](#the-core-takeaway-)
+* [Why the negative ones stick](#why-the-negative-ones-stick-️)
+* [The metaphor](#the-metaphor-)
+* [What regulation actually is](#what-regulation-actually-is-)
+* [When emotions get stuck](#when-emotions-get-stuck-)
+* [When emotions try to drive](#when-emotions-try-to-drive-)
+* [The core takeaway](#the-core-takeaway-)
 
 ---
 
